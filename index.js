@@ -26,7 +26,7 @@ do {
   array.push(`I love the Beatles!`)
 
 }
-while (15 <= number );
+while (number <= 15 );
 
 return array;
 }
